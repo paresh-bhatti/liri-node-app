@@ -1,0 +1,11 @@
+======Begin Spotify Log Entry======
+Artist: Ace of Base======End of Entry============Begin Spotify Log Entry======
+Artist: Marshmello======End of Entry============Begin Movie Log Entry======
+Movie title: Mr. Nobody
+Year released: 2009======End of Entry============Begin Movie Log Entry======
+Movie title: Glass
+Year released: 2019======End of Entry============Begin Concert Log Entry======
+Name of Artist: Drake
+Venue: Manchester Arena
+Event Date: 03-10-2019======End of Entry============Begin Spotify Log Entry======
+Artist: Backstreet Boys======End of Entry======
